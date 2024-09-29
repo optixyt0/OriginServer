@@ -1,8 +1,8 @@
-# LawinServerV2
-### LawinServer V2 is a fortnite backend written in Node.js that features an account system and xmpp.
+# OriginServer
+### OriginServer is a fortnite backend written in Node.js that features an account system and xmpp made for [Lightning].
 
 ## Features
-### LawinServer V2
+### Origin Server
 * CloudStorage and ClientSettings (Settings Saving).
 * Locker:
     + Changing items.
@@ -21,6 +21,8 @@
     + Customizable Item Shop.
     + Purchasing items from the Item Shop.
     + Gifting items to your friends.
+* Battle Pass:
+    + Season 12 Battle Pass
 ### XMPP Features
 - Parties (builds 3.5 to 14.50).
 - Chat (whispering, global chat, party chat).
